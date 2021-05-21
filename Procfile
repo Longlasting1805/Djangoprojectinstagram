@@ -1,0 +1,1 @@
+web: gunicorn djangoProjectInstgram.wsgi --log-file -
